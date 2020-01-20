@@ -1,5 +1,8 @@
 # api
 
+2-х недельный прогресс изучения php+PDO
+Старт - 16.12.2019
+Конец - 30.12.2019
 
 
 Доступные запросы: Список работников с id - https://trig-refund.000webhostapp.com/api/api.php?login=admin&passwd=test123&method=workersid Список офисов - https://trig-refund.000webhostapp.com/api/api.php?login=admin&passwd=test123&method=offices 
